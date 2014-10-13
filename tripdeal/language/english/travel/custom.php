@@ -1,0 +1,41 @@
+<?php
+// Text
+$_['text_where_you_go']  = 'Where do you want to go?';
+$_['text_home']           = 'Homepage';
+$_['text_deal_travel']    = 'TRAVEL DEAL';
+$_['text_city_available'] = 'cities available for ';
+$_['text_city_selected']  = 'Cities you have selected';
+$_['text_start_date'] = 'Start Date';
+$_['text_num_date'] = 'Number Date';
+$_['text_name_trip'] = 'Give a name to your Trip';
+$_['text_name_trip_placeholder'] = 'Trip on ...';
+$_['adventure'] = 'Adventure';
+$_['honeymoon'] = 'Honeymoon';
+$_['transfer_only'] = 'Transfer only';
+$_['luxury'] = 'Luxury';
+$_['short_break'] = 'Short Breaks';
+$_['cruises'] = 'Cruises';
+$_['multi_country'] = 'Multi Country';
+$_['others'] = 'Others';
+$_['beaches'] = 'Beaches';
+$_['day_trips'] = 'Day Trips';
+$_['responsible_travel'] = 'Responsible travel';
+$_['accommodation_only'] = 'Accommodation only';
+$_['step3_title1'] = 'Which travel style suits you best?*';
+$_['step3_title2'] = 'What type of accommodation would you like?*';
+$_['step3_3_stars'] = '3 stars';
+$_['step3_4_stars'] = '4 stars';
+$_['step3_5_stars'] = '5 stars resort';
+$_['boutique'] = 'Boutique (3 - 4 stars)';
+$_['not_required'] = 'Not required';
+$_['step3_title3'] = 'What is your average budget per person?';
+$_['step3_title4'] = 'What would your idea trip include?';
+$_['step3_des_idea'] = 'What makes the prefect trip for you? It could be a guided tour in your native language, eating the local cuisine, a visit to a certain museum, doing some arts and crafts or even bringing your dog along. Share with your Destination Expert exactly what would make your trip special. ';
+$_['step4_title'] = 'YOUR CONTACT INFORMATION';
+$_['step4_title_des'] = 'Your information is held in strict confidence. We will not share or sell your information with anyone else.';
+$_['step5_congratulation'] = 'Congrats... your dream itinerary is ready!';
+$_['step5_gowith_title'] = 'Do you want go with anothers?';
+$_['step5_gowith_title'] = 'Do you want go with anothers?';
+$_['step5_sugesstion'] = 'Get suggestions from your friends!';
+$_['text_how_it_works'] = 'How it works';
+?>
