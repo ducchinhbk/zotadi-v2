@@ -1,0 +1,72 @@
+.customTooltipContainer
+{
+    position:absolute;
+    left:0;
+    top:0;
+    display:none;
+    z-index: 20000;
+}
+
+.tooltipPopup
+{
+}
+
+.customTooltipContent
+{
+    background-color: #FFF;
+    min-width: 175px;
+    min-height: 50px;
+}
+
+.tooltipPopup .tooltipImage
+{
+    margin: 5px;
+    margin-right: 15px;
+}
+
+.tooltipPopup .corner 
+{
+    width: 19px;
+    height: 15px;
+}
+    
+.tooltipPopup .topLeft 
+{
+    background: url(../image/customTooltip/balloon_topLeft.png) no-repeat;
+}
+    
+.tooltipPopup .bottomLeft 
+{
+    background: url(../image/customTooltip/balloon_bottomLeft.png) no-repeat;
+}
+    
+.tooltipPopup .left 
+{
+    background: url(../image/customTooltip/balloon_left.png) repeat-y;
+}
+    
+.tooltipPopup .right 
+{
+    background: url(../image/customTooltip/balloon_right.png) repeat-y;
+}
+    
+.tooltipPopup .topRight 
+{
+    background: url(../image/customTooltip/balloon_topRight.png) no-repeat;
+}
+    
+.tooltipPopup .bottomRight 
+{
+    background: url(../image/customTooltip/balloon_bottomRight.png) no-repeat;
+}
+    
+.tooltipPopup .top 
+{
+    background: url(../image/customTooltip/balloon_top.png) repeat-x;
+}
+    
+.tooltipPopup .bottom 
+{
+    background: url(../image/customTooltip/balloon_bottom.png) repeat-x;
+    text-align: center;
+}
